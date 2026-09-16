@@ -1,0 +1,8 @@
+{
+  "name": "Remix SETI Temporal Mismatch Simulator",
+  "description": "Interactive mobile-first simulation exploring light travel time delays and their impact on detecting distant alien technological signatures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
